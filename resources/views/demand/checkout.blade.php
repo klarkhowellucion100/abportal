@@ -60,7 +60,7 @@
                             <div class="d-flex justify-content-center flex-wrap mt-3">
                                 <span class="text-center text-success fw-bold">
                                     <i class="bi bi-bag-check-fill" style="font-size: 40px;"></i> <br>
-                                    Successfully checked out! Your commitments are now pending review and approval!
+                                    Successfully checked out! Your commitments are now pending review and approval.
                                 </span>
 
                             </div>
